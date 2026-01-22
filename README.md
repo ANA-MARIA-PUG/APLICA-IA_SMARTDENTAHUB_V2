@@ -23,3 +23,5 @@
 | **Vanilla JavaScript** | Logica aplicației: programări, filtrare, LocalStorage |
 | **Node.js / REST API** | Integrare viitoare server-side și baze de date NoSQL  |
 | **Big Data & NLP**     | Analiză predictivă și generare recomandări medicale   |
+
+LINK: https://ana-maria-pug.github.io/APLICA-IA_SMARTDENTAHUB_V2/
